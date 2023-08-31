@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I am Paras Joshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Coder||+Learner||+Engineer;CPP ||+ Web+Development+Building+Myself+As+Rome+Wasn't+Build+in+a+day+but+started+with+one;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Coder||+Learner||+Engineer;Aspiring+Web+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
 </p>
 <hr/>
 
 ## 💫 About Me:
-✨ Passionate about learning new technologies<br>🌱 Currently learning <b>Blockchain</b> <br><!-- 🔭 Working on a <b>MERN STACK based website</b><br> -->👯 Looking forward to collaborate on projects**<br>
+✨ Passionate about learning new technologies<br>🌱 Currently learning <b>Blockchain</b> <br><!-- 🔭 Working on a <b>MERN STACK based website Project</b><br> -->👯 Looking forward to collaborate on projects**<br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 💻 Tech Stack & Tools:
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
@@ -83,7 +83,7 @@
 [leetcode-url]: https://leetcode.com/parasjoshi24
 [gfg-url]:  https://auth.geeksforgeeks.org/user/parasjoshi2402
 [hackerrank-shield]: https://img.shields.io/badge/-Paras%20Joshi-black?style=flat&logo=hackerrank
-[hackerrank-url]:[https://www.hackerrank.com/p_joshi2402]
+[hackerrank-url]:https://www.hackerrank.com/p_joshi2402
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
 [ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
