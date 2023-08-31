@@ -5,7 +5,7 @@
 <hr/>
 
 ## 💫 About Me:
-✨ Passionate about learning new technologies<br>🌱 Currently learning the <b>Blockchain</b> <br><!-- 🔭 Working on a <b>MERN STACK based website</b><br> -->👯 Looking forward to collaborate on projects**<br>
+✨ Passionate about learning new technologies<br>🌱 Currently learning <b>Blockchain</b> <br><!-- 🔭 Working on a <b>MERN STACK based website</b><br> -->👯 Looking forward to collaborate on projects**<br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 💻 Tech Stack & Tools:
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
@@ -20,11 +20,11 @@
 </div> -->
 ### <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> Streak stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN&layout=compact&show_icon=true&theme=algolia" alt="AJTITAN-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAARASJOSHI&layout=compact&show_icon=true&theme=algolia" alt="PAARASJOSHI-langs"/>
 <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=TangoBeee&layout=compact&show_icon=true&theme=algolia" alt="TangoBee-stats"/> -->
 </div>
 <div align="center">
-
+M
   <a>![Github streak][github-streak]</a>
 
 </div>
