@@ -15,7 +15,7 @@
 <!-- ### <img src="https://media.giphy.com/media/swhRkVYLJDrCE/giphy.gif" width = "40> Language Stats
  <div align="center">
 
-  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN)](https://github.com/AJTITAN/github-readme-stats)</a>
+  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paarasjoshi)](https://github.com/paarasjoshi/github-readme-stats)</a>
 
 </div> -->
 ### <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> Streak stats
