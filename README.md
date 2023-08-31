@@ -70,7 +70,7 @@ M
 [visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=paarasjoshi
 [github-stars-shield]: https://img.shields.io/github/stars/paarasjoshi?style=social
 [github-stats]:https://githubreadmestats.vercel.app/apiusername=paarasjoshi&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[leetcode-stats-url]: https://leetcard.jacoblin.cool/AJTITAN?theme=dark&font=Roboto&ext=heatmap
+[leetcode-stats-url]: https://leetcard.jacoblin.cool/parasjoshi24?theme=dark&font=Roboto&ext=heatmap
 [gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=parasjoshi2402
 [leetcode-url]: https://leetcode.com/parasjoshi24
 [gfg-url]: https://auth.geeksforgeeks.org/user/parasjoshi2402
