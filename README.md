@@ -1,11 +1,11 @@
-<h1 align="center">Hi , I am Paras Joshi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I am Paras Joshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Coding+Geek;Explorer||+Programmer||+Engineer;Always%20Eager%20to%20learn%20new%20skills&center=true&width=600&height=80"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Coder ||+Learner ||+Engineer;Aspiring+CPP+Programmer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
 </p>
 <hr/>
 
 ## 💫 About Me:
-✨ Passionate about learning new technologies<br>🌱 Currently learning the <b>BlockChain & Cloud</b> <br><!-- 🔭 Working on a <b>Subscription based eCommerce Website</b><br> -->👯 Looking forward to collaborate on projects**<br>
+✨ Passionate about learning new technologies<br>🌱 Currently learning the <b>MERN</b> stack<br><!-- 🔭 Working on a <b>Subscription based eCommerce Website</b><br> -->👯 Looking forward to collaborate on projects**<br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 💻 Tech Stack & Tools:
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
@@ -15,12 +15,12 @@
 <!-- ### <img src="https://media.giphy.com/media/swhRkVYLJDrCE/giphy.gif" width = "40> Language Stats
  <div align="center">
 
-  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAARASJOSHI)](https://github.com/paarasjoshi/github-readme-stats)</a>
+  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN)](https://github.com/AJTITAN/github-readme-stats)</a>
 
 </div> -->
 ### <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> Streak stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAARASJOSHI&layout=compact&show_icon=true&theme=algolia" alt="PAARASJOSHI-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN&layout=compact&show_icon=true&theme=algolia" alt="AJTITAN-langs"/>
 <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=TangoBeee&layout=compact&show_icon=true&theme=algolia" alt="TangoBee-stats"/> -->
 </div>
 <div align="center">
@@ -57,46 +57,46 @@
 
 <div align="center">
 
-  <a href="https://github.com/PAARASJOSHI">![Footer quote][quote-url]</a>
+  <a href="https://github.com/AJTITAN">![Footer quote][quote-url]</a>
 
 </div>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/PAARASJOSHI/count.svg" />
+  <img src="https://profile-counter.glitch.me/AJTITAN/count.svg" />
 </p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=PAARASJOSHI
-[github-stars-shield]: https://img.shields.io/github/stars/PAARASJOSHI?style=social
-[github-stats]:https://githubreadmestats.vercel.app/apiusername=PAARASJOSHI&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[leetcode-stats-url]: https://leetcard.jacoblin.cool/PAARASJOSHI?theme=dark&font=Roboto&ext=heatmap
-[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=Parasjoshi2402
-[leetcode-url]: https://leetcode.com/parasjoshi24
-[gfg-url]: [https://auth.geeksforgeeks.org/user/parasjoshi2402]
-[github-followers-shield]: https://img.shields.io/github/followers/PaarasJoshi?style=social
-[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=PaarasJoshi&theme=algolia
-[github-streak]: https://streak-stats.demolab.com?user=PaarasJoshi&theme=algolia
-[github-trophy]: https://github-profile-trophy.vercel.app/?username=PaarasJoshi&theme=algolia
-[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/PaarasJoshi/solved?color=orange&logo=leetcode
+[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=AJTITAN
+[github-stars-shield]: https://img.shields.io/github/stars/AJTITAN?style=social
+[github-stats]:https://githubreadmestats.vercel.app/apiusername=AJTITAN&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
+[leetcode-stats-url]: https://leetcard.jacoblin.cool/AJTITAN?theme=dark&font=Roboto&ext=heatmap
+[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=AJTITAN
+[leetcode-url]: https://leetcode.com/AJTITAN
+[gfg-url]: https://auth.geeksforgeeks.org/user/AJTITAN
+[github-followers-shield]: https://img.shields.io/github/followers/AJTITAN?style=social
+[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN&theme=algolia
+[github-streak]: https://streak-stats.demolab.com?user=AJTITAN&theme=algolia
+[github-trophy]: https://github-profile-trophy.vercel.app/?username=AJTITAN&theme=algolia
+[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/AJTITAN/solved?color=orange&logo=leetcode
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
-[leetcode-url]: https://leetcode.com/parasjoshi24
-[gfg-url]: [https://auth.geeksforgeeks.org/user/parasjoshi2402]
-[hackerrank-shield]: https://img.shields.io/badge/-PARAS%20JOSHI-black?style=flat&logo=hackerrank
-[hackerrank-url]: [https://www.hackerrank.com/p_joshi2402?hr_r=1]
+[leetcode-url]: https://leetcode.com/AJTITAN
+[gfg-url]: https://auth.geeksforgeeks.org/user/AJTITAN
+[hackerrank-shield]: https://img.shields.io/badge/-ASHISH%20JOSHI-black?style=flat&logo=hackerrank
+[hackerrank-url]: https://www.hackerrank.com/AJTITAN
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
 [ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
 [ieee-paper-url]: https://ieeexplore.ieee.org/document/9807998
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-[gmail-shield]: https://img.shields.io/badge/-Paras%20Joshi-grey?style=flat&logo=gmail
-[gmail-url]: mailto:p.joshi2402@gmail.com
-[linkedin-shield]: https://img.shields.io/badge/-Paras%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: [https://www.linkedin.com/in/parasjoshi2402]
-[github-shield]: https://img.shields.io/badge/-Paras%20Joshi-black?style=flat&logo=github
-[linkedin-shield]: https://img.shields.io/badge/-Paras%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
-[github-shield]: https://img.shields.io/badge/-Paras%20Joshi-black?style=flat&logo=github
+[gmail-shield]: https://img.shields.io/badge/-Ashish%20Joshi-grey?style=flat&logo=gmail
+[gmail-url]: mailto:ashishjoshi2023@gmail.com
+[linkedin-shield]: https://img.shields.io/badge/-Ashish%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/ajtitan
+[github-shield]: https://img.shields.io/badge/-Ashish%20Joshi-black?style=flat&logo=github
+[linkedin-shield]: https://img.shields.io/badge/-Ashish%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
+[github-shield]: https://img.shields.io/badge/-Ashish%20Joshi-black?style=flat&logo=github
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia
-[leetcode-shield]: https://img.shields.io/badge/-Paras%20Joshi-grey?style=flat&logo=leetcode
-[gfg-shield]: https://img.shields.io/badge/-Paras%20Joshi-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
-[github-url]: https://github.com/PAARASJOSHI
+[leetcode-shield]: https://img.shields.io/badge/-Ashish%20Joshi-grey?style=flat&logo=leetcode
+[gfg-shield]: https://img.shields.io/badge/-Ashish%20Joshi-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
+[github-url]: https://github.com/AJTITAN
