@@ -5,7 +5,7 @@
 <hr/>
 
 ## 💫 About Me:
-✨ Passionate about learning new technologies<br>🌱 Currently learning <b>Blockchain</b> <br><!-- 🔭 Working on a <b>MERN STACK based website Project</b><br> -->👯 Looking forward to collaborate on projects**<br>
+✨ Passionate about learning new technologies<br>🌱 Currently learning <b>Blockchain</b> <br><!-- 🔭 Working on a <b>MERN STACK based website Project</b><br> -->👯 Looking forward to collaborate on projects<br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 💻 Tech Stack & Tools:
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/paarasjoshi"> My Motto - I have not come this far only to come this far ![Footer quote][quote-url]</a>
+  <a href="https://github.com/paarasjoshi"> </b>My Motto - I have not come this far only to come this far </b><br> ![Footer quote][quote-url]</a>
 
 </div>
 <p align="center"> 
