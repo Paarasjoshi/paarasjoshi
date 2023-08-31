@@ -57,46 +57,46 @@ M
 
 <div align="center">
 
-  <a href="https://github.com/AJTITAN">![Footer quote][quote-url]</a>
+  <a href="https://github.com/paarasjoshi">![Footer quote][quote-url]</a>
 
 </div>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AJTITAN/count.svg" />
+  <img src="https://profile-counter.glitch.me/paarasjoshi/count.svg" />
 </p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=AJTITAN
-[github-stars-shield]: https://img.shields.io/github/stars/AJTITAN?style=social
-[github-stats]:https://githubreadmestats.vercel.app/apiusername=AJTITAN&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
+[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=paarasjoshi
+[github-stars-shield]: https://img.shields.io/github/stars/paarasjoshi?style=social
+[github-stats]:https://githubreadmestats.vercel.app/apiusername=paarasjoshi&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/AJTITAN?theme=dark&font=Roboto&ext=heatmap
-[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=AJTITAN
-[leetcode-url]: https://leetcode.com/AJTITAN
-[gfg-url]: https://auth.geeksforgeeks.org/user/AJTITAN
-[github-followers-shield]: https://img.shields.io/github/followers/AJTITAN?style=social
-[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN&theme=algolia
-[github-streak]: https://streak-stats.demolab.com?user=AJTITAN&theme=algolia
-[github-trophy]: https://github-profile-trophy.vercel.app/?username=AJTITAN&theme=algolia
-[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/AJTITAN/solved?color=orange&logo=leetcode
+[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=parasjoshi2402
+[leetcode-url]: https://leetcode.com/parasjoshi24
+[gfg-url]: https://auth.geeksforgeeks.org/user/parasjoshi2402
+[github-followers-shield]: https://img.shields.io/github/followers/paarasjoshi?style=social
+[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=paarasjoshi&theme=algolia
+[github-streak]: https://streak-stats.demolab.com?user=paarasjoshi&theme=algolia
+[github-trophy]: https://github-profile-trophy.vercel.app/?username=paarasjoshi&theme=algolia
+[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/parasjoshi24/solved?color=orange&logo=leetcode
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
-[leetcode-url]: https://leetcode.com/AJTITAN
-[gfg-url]: https://auth.geeksforgeeks.org/user/AJTITAN
-[hackerrank-shield]: https://img.shields.io/badge/-ASHISH%20JOSHI-black?style=flat&logo=hackerrank
-[hackerrank-url]: https://www.hackerrank.com/AJTITAN
+[leetcode-url]: https://leetcode.com/parasjoshi24
+[gfg-url]:  https://auth.geeksforgeeks.org/user/parasjoshi2402
+[hackerrank-shield]: https://img.shields.io/badge/-Paras%20JOSHI-black?style=flat&logo=hackerrank
+[hackerrank-url]:[https://www.hackerrank.com/p_joshi2402]
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
 [ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
 [ieee-paper-url]: https://ieeexplore.ieee.org/document/9807998
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-[gmail-shield]: https://img.shields.io/badge/-Ashish%20Joshi-grey?style=flat&logo=gmail
-[gmail-url]: mailto:ashishjoshi2023@gmail.com
-[linkedin-shield]: https://img.shields.io/badge/-Ashish%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/ajtitan
-[github-shield]: https://img.shields.io/badge/-Ashish%20Joshi-black?style=flat&logo=github
-[linkedin-shield]: https://img.shields.io/badge/-Ashish%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
-[github-shield]: https://img.shields.io/badge/-Ashish%20Joshi-black?style=flat&logo=github
+[gmail-shield]: https://img.shields.io/badge/-Paras%20Joshi-grey?style=flat&logo=gmail
+[gmail-url]: mailto:parasjoshi2006@gmail.com
+[linkedin-shield]: https://img.shields.io/badge/-Paras%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/parasjoshi24
+[github-shield]: https://img.shields.io/badge/-Paras%20Joshi-black?style=flat&logo=github
+[linkedin-shield]: https://img.shields.io/badge/-Paras%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
+[github-shield]: https://img.shields.io/badge/-Paras%20Joshi-black?style=flat&logo=github
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia
-[leetcode-shield]: https://img.shields.io/badge/-Ashish%20Joshi-grey?style=flat&logo=leetcode
-[gfg-shield]: https://img.shields.io/badge/-Ashish%20Joshi-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
-[github-url]: https://github.com/AJTITAN
+[leetcode-shield]: https://img.shields.io/badge/-Paras%20Joshi-grey?style=flat&logo=leetcode
+[gfg-shield]: https://img.shields.io/badge/-Paras%20Joshi-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
+[github-url]: https://github.com/paarasjoshi
