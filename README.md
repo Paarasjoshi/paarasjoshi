@@ -57,7 +57,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/paarasjoshi">!You didn't Come this far only to come this far[Footer quote][quote-url]</a>
+  <a href="https://github.com/paarasjoshi">You didn't Come this far only to come this far  ![Footer quote][quote-url]</a>
 
 </div>
 <p align="center"> 
