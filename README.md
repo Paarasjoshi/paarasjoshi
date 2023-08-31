@@ -82,7 +82,7 @@
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
 [leetcode-url]: https://leetcode.com/parasjoshi24
 [gfg-url]:  https://auth.geeksforgeeks.org/user/parasjoshi2402
-[hackerrank-shield]: https://img.shields.io/badge/-Paras%20JOSHI-black?style=flat&logo=hackerrank
+[hackerrank-shield]: https://img.shields.io/badge/-Paras%20Joshi-black?style=flat&logo=hackerrank
 [hackerrank-url]:[https://www.hackerrank.com/p_joshi2402]
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
