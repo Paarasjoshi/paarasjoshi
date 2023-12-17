@@ -19,7 +19,7 @@
 
 </div> -->
 ### <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> Streak stats
-Refresh If you're unable to see graphical stats.
+Refresh If you're unable to see graphical stats. <a href="https://github.com/Paarasjoshi">Refresh</a>
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarasjoshi&layout=compact&show_icon=true&theme=algolia" alt="paarasjoshi-langs"/>
 <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=TangoBeee&layout=compact&show_icon=true&theme=algolia" alt="TangoBee-stats"/> -->
@@ -39,6 +39,7 @@ Refresh If you're unable to see graphical stats.
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />  Coding Profiles  
 Refresh If you're unable to see graphical stats.
+<a href="https://github.com/Paarasjoshi">Refresh</a>
 <div align="center">
     
   <a href="">[![GFG-Stats][gfg-stats-url]][gfg-url]</a>
