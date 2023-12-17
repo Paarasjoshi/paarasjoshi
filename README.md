@@ -42,9 +42,9 @@ Refresh If you're unable to see graphical stats.
 <a href="https://github.com/Paarasjoshi">Refresh</a>
 <div align="center">
     
-  <a href="">[![GFG-Stats][gfg-stats-url]][gfg-url]</a>
+  <a href="" target="_blank">[![GFG-Stats][gfg-stats-url]][gfg-url]</a>
   
-  <a href="">[![Leetcode-Stats][leetcode-stats-url]][leetcode-url]</a>
+  <a href="" target="_blank">[![Leetcode-Stats][leetcode-stats-url]][leetcode-url]</a>
 
 </div>
 
