@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I am Paras Joshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey , I am Paras Joshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Coder||+Learner||+Engineer;Aspiring+Web+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineer♾️;Learner⚛️;Always%20Eager%20to%20Create%20new%20things📛&center=true&width=600&height=80"></a>
 </p>
 <hr/>
 
@@ -49,21 +49,21 @@ Refresh If you're unable to see graphical stats.
 
 
 ## 🙋‍♂️ Let's Connect
-[![Gmail][gmail-shield]][gmail-url]
-[![Linkedin][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
-[![LeetCode][leetcode-shield]][leetcode-url]
-[![Hackerrank][hackerrank-shield]][hackerrank-url]
-[![GFG][gfg-shield]][gfg-url]
+[![Gmail][gmail-shield]][gmail-url] -Mail <br>
+[![Linkedin][linkedin-shield]][linkedin-url] -LinkedIn<br>
+[![Github][github-shield]][github-url] -GitHub<br>
+[![LeetCode][leetcode-shield]][leetcode-url] -LeetCode<br>
+[![Hackerrank][hackerrank-shield]][hackerrank-url] -HackerRank<br>
+[![GFG][gfg-shield]][gfg-url] -Geeks-For-Geeks<br>
 <br>
 
 <div align="center">
 
-  <a href="https://github.com/paarasjoshi"> </b>My Motto - I have not come this far only to come this far </b><br> ![Footer quote][quote-url]</a>
+  <a href="https://github.com/paarasjoshi"> </b> I have not come this far only to come this far </b><br> ![Footer quote][quote-url]</a>
 
 </div>
 <p align="center"> 
-  Visitor count<br>
+  GitHub Visitor count<br>
   <img src="https://profile-counter.glitch.me/paarasjoshi/count.svg" />
 </p>
 
