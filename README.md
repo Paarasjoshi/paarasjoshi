@@ -93,7 +93,7 @@ Refresh If you're unable to see graphical stats.
 [ieee-paper-url]: https://ieeexplore.ieee.org/document/9807998
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 [gmail-shield]: https://img.shields.io/badge/-Paras%20Joshi-grey?style=flat&logo=gmail
-[gmail-url]: mailto:parasjoshi2006@gmail.com
+[gmail-url]: mailto:p.joshi2402@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/-Paras%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/parasjoshi24
 [github-shield]: https://img.shields.io/badge/-Paras%20Joshi-black?style=flat&logo=github
