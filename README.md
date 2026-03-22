@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Paras Joshi 👋</h1>
+<h1 align="center">Hey, I'm Paras Joshi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Working+on+Production+Systems;Focused+on+Performance+and+Scalability&center=true&width=500&height=45">
@@ -13,9 +13,11 @@ Focused on performance, reliability, and building systems that scale.
   <a href="https://parasjoshi.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/parasjoshi24">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/paarasjoshi">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -23,7 +25,7 @@ Focused on performance, reliability, and building systems that scale.
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 - Backend Engineer at a B2B SaaS product  
 - Build and maintain REST APIs used in production  
@@ -33,7 +35,7 @@ Focused on performance, reliability, and building systems that scale.
 
 ---
 
-## ⚡ Impact
+## Impact
 
 - Reduced API latency from ~1300ms → ~40ms  
 - Improved database performance by ~30%  
@@ -43,47 +45,46 @@ Focused on performance, reliability, and building systems that scale.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-**Languages**  
-C#, JavaScript, Python, C++, Java  
+Languages  
+- C#, JavaScript, Python, C++, Java  
 
-**Backend & Frameworks**  
-.NET, Node.js, Express  
+Backend & Frameworks  
+- .NET, Node.js, Express  
 
-**Databases**  
-MySQL, MongoDB  
+Databases  
+- MySQL, MongoDB  
 
-**Systems & Messaging**  
-NSQ, REST APIs  
+Systems & Messaging  
+- NSQ, REST APIs  
 
-**Tools & Platforms**  
-Git, Linux, Postman, Visual Studio  
+Tools & Platforms  
+- Git, Linux, Postman, Visual Studio  
 
 ---
 
-## 🏗️ Engineering Work
+## Engineering Work
 
-### 🚀 Feature Development
-- Built multiple backend features including CRUD APIs and new product modules  
+Feature Development  
+- Built backend features including CRUD APIs and new modules  
 - Designed and implemented notification systems using NSQ  
-- Contributed to core product functionality used by real customers  
 
-### ⚡ Performance Optimization
-- Reduced API latency drastically by optimizing queries and backend logic  
-- Improved database efficiency through indexing and query tuning  
+Performance Optimization  
+- Reduced API latency through query and logic optimization  
+- Improved database efficiency using indexing  
 
-### 🗄️ Database & Migration Work
-- Worked on schema design and migrations from legacy systems  
-- Improved performance of complex SQL queries in production  
+Database & Migration Work  
+- Worked on schema design and migrations  
+- Optimized complex SQL queries  
 
-### 🐛 Production Debugging
-- Fixed production API bugs impacting real users  
+Production Debugging  
+- Fixed production API bugs  
 - Investigated issues using logs and system-level debugging  
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paarasjoshi&show_icons=true&hide_border=true" />
@@ -99,7 +100,7 @@ Git, Linux, Postman, Visual Studio
 
 ---
 
-## 🔥 Coding Practice
+## Coding Practice
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/parasjoshi24?theme=light&ext=heatmap" />
@@ -107,7 +108,7 @@ Git, Linux, Postman, Visual Studio
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paarasjoshi&label=Profile%20views&color=0e75b6&style=flat" />
@@ -115,7 +116,7 @@ Git, Linux, Postman, Visual Studio
 
 ---
 
-## 💭 Thoughts I Operate On
+## Thoughts I Operate On
 
 <p align="center">
   <i>"Rome was not built in a day, but it started with one."</i><br/><br/>
@@ -124,24 +125,29 @@ Git, Linux, Postman, Visual Studio
 
 ---
 
-## 🌐 Connect & Profiles
+## Connect & Profiles
 
 <p align="center">
   <a href="mailto:p.joshi2402@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/parasjoshi24">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/paarasjoshi">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/parasjoshi24">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/p_joshi2402">
     <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/parasjoshi2402">
     <img src="https://img.shields.io/badge/GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
   </a>
