@@ -10,11 +10,15 @@ Focused on performance, reliability, and building systems that scale.
 </p>
 
 <p align="center">
-  <a href="https://parasjoshi.com"><b>🌐 Portfolio</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/parasjoshi24"><b>💼 LinkedIn</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/paarasjoshi"><b>💻 GitHub</b></a>
+  <a href="https://parasjoshi.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/parasjoshi24">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/paarasjoshi">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -120,17 +124,34 @@ Git, Linux, Postman, Visual Studio
 
 ---
 
+## 🌐 Connect & Profiles
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+  <a href="mailto:p.joshi2402@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/parasjoshi24">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/paarasjoshi">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://leetcode.com/parasjoshi24">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://www.hackerrank.com/p_joshi2402">
+    <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/parasjoshi2402">
+    <img src="https://img.shields.io/badge/GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+  </a>
 </p>
 
 ---
 
-## 🤝 Connect
-
-- Portfolio: https://parasjoshi.com  
-- LinkedIn: https://www.linkedin.com/in/parasjoshi24  
-- Email: p.joshi2402@gmail.com  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+</p>
 
 ---
 
