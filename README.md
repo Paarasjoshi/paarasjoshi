@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Paras Joshi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Working+on+Production+Systems;Focused+on+Performance+%26+Scalability&center=true&width=600&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Working+on+Production+Systems;Focused+on+Performance+and+Scalability&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -10,9 +10,11 @@ Focused on performance, reliability, and building systems that scale.
 </p>
 
 <p align="center">
-  <a href="https://parasjoshi.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/parasjoshi24">LinkedIn</a> •
-  <a href="https://github.com/paarasjoshi">GitHub</a>
+  <a href="https://parasjoshi.com"><b>🌐 Portfolio</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/parasjoshi24"><b>💼 LinkedIn</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/paarasjoshi"><b>💻 GitHub</b></a>
 </p>
 
 ---
@@ -39,26 +41,41 @@ Focused on performance, reliability, and building systems that scale.
 
 ## ⚙️ Tech Stack
 
-Backend: C# (.NET)  
-Database: MySQL  
-Messaging: NSQ  
-Tools: Git, Postman, Linux  
+**Languages**  
+C#, JavaScript, Python, C++, Java  
+
+**Backend & Frameworks**  
+.NET, Node.js, Express  
+
+**Databases**  
+MySQL, MongoDB  
+
+**Systems & Messaging**  
+NSQ, REST APIs  
+
+**Tools & Platforms**  
+Git, Linux, Postman, Visual Studio  
 
 ---
 
 ## 🏗️ Engineering Work
 
-### 🔔 Notification System
-- Built async notification pipeline using NSQ  
-- Decoupled services and improved responsiveness  
+### 🚀 Feature Development
+- Built multiple backend features including CRUD APIs and new product modules  
+- Designed and implemented notification systems using NSQ  
+- Contributed to core product functionality used by real customers  
 
-### ⚡ API Optimization
-- Identified bottlenecks and optimized queries  
-- Reduced latency significantly in production APIs  
+### ⚡ Performance Optimization
+- Reduced API latency drastically by optimizing queries and backend logic  
+- Improved database efficiency through indexing and query tuning  
 
-### 🗄️ Database Optimization
-- Worked on schema changes and migrations  
-- Improved performance of complex queries  
+### 🗄️ Database & Migration Work
+- Worked on schema design and migrations from legacy systems  
+- Improved performance of complex SQL queries in production  
+
+### 🐛 Production Debugging
+- Fixed production API bugs impacting real users  
+- Investigated issues using logs and system-level debugging  
 
 ---
 
@@ -94,14 +111,29 @@ Tools: Git, Postman, Linux
 
 ---
 
-## 💭 Engineering Thought
+## 💭 Thoughts I Operate On
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+  <i>"Rome was not built in a day, but it started with one."</i><br/><br/>
+  <i>"I have not come this far only to come this far."</i>
 </p>
 
-
+---
 
 <p align="center">
-  <i>Good systems are simple. Great systems stay simple at scale.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+</p>
+
+---
+
+## 🤝 Connect
+
+- Portfolio: https://parasjoshi.com  
+- LinkedIn: https://www.linkedin.com/in/parasjoshi24  
+- Email: p.joshi2402@gmail.com  
+
+---
+
+<p align="center">
+  <i>I like working on problems where performance actually matters.</i>
 </p>
