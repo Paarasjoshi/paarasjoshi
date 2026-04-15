@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Paras Joshi</h1>
+<h1 align="center">Hey, I am Paras Joshi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Working+on+Production+Systems;Focused+on+Performance+and+Scalability&center=true&width=500&height=45">
