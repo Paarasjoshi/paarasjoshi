@@ -143,13 +143,7 @@ philosophy: "Make it work → correct → fast → scalable"
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=paarasjoshi&theme=onedark&column=6&margin-w=10&margin-h=10" />
-</div>
-
----
 
 ## 📊 GitHub Stats
 
