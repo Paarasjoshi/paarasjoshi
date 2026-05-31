@@ -8,10 +8,20 @@
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=paarasjoshi&label=Profile+Views&color=7C3AED&style=for-the-badge" />
+<!-- BADGES ROW -->
+<a href="https://parasjoshi.com">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/paarasjoshi?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=Followers" />
+<a href="https://www.linkedin.com/in/parasjoshi24">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:p.joshi2402@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=paarasjoshi&label=Profile+Views&color=7C3AED&style=for-the-badge" />
 
 </div>
 
@@ -141,84 +151,71 @@ philosophy: "Make it work → correct → fast → scalable"
 
 ---
 
-<!-- GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=paarasjoshi&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=paarasjoshi&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paarasjoshi&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarasjoshi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=paarasjoshi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarasjoshi&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=paarasjoshi&theme=midnight-purple&hide_border=true&background=0D1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=888888" />
+<img src="https://streak-stats.demolab.com?user=paarasjoshi&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=a855f7&ring=a855f7&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=888888" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paarasjoshi&bg_color=0d1117&color=a855f7&line=7C3AED&point=ffffff&area=true&hide_border=true&theme=react-dark" />
-</div>
-
----
-
-<!-- LEETCODE -->
-## 💻 LeetCode Progress
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/parasjoshi24?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=20" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paarasjoshi&bg_color=0d1117&color=a855f7&line=7c3aed&point=f97316&area=true&hide_border=true" />
 </div>
 
 ---
 
-<!-- SNAKE ANIMATION -->
-## 🐍 Contribution Snake
+## 💻 LeetCode
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/parasjoshi24?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=16" />
+</div>
+
+---
+
+## 🐍 Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paarasjoshi/paarasjoshi/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/paarasjoshi/paarasjoshi/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/paarasjoshi/paarasjoshi/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paarasjoshi/paarasjoshi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paarasjoshi/paarasjoshi/output/github-contribution-grid-snake.svg" />
+  <img alt="activity-graph" src="https://raw.githubusercontent.com/paarasjoshi/paarasjoshi/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-<!-- PHILOSOPHY -->
-## 💡 Engineering Philosophy
+## 💡 Philosophy
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────┐
-│                                             │
-│   Make it work.                             │
-│   Make it correct.                          │
-│   Make it fast.                             │
-│   Then make it scale.                       │
-│                                             │
-│   "I like working on problems where         │
-│    performance actually matters."           │
-│                                             │
-└─────────────────────────────────────────────┘
+Make it work.  →  Make it correct.  →  Make it fast.  →  Make it scale.
+
+  "I like working on problems where performance actually matters."
 ```
 
 </div>
 
 ---
 
-<!-- CONNECT -->
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <div align="center">
 
