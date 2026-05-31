@@ -1,163 +1,264 @@
-<h1 align="center">Hey, I am Paras Joshi</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Working+on+Production+Systems;Focused+on+Performance+and+Scalability&center=true&width=500&height=45">
-</p>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Paras%20Joshi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Performance%20Obsessed&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="center">
-Backend Engineer working on real production systems.<br/>
-Focused on performance, reliability, and building systems that scale.
-</p>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Building+systems+that+don't+break+%F0%9F%94%A5;1300ms+%E2%86%92+40ms+API+latency+reduction+%E2%9A%A1;100K%2B+users+served+in+production+%F0%9F%9A%80;Scaling+backends+that+actually+scale+%F0%9F%93%88" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://parasjoshi.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/parasjoshi24">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-</p>
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=paarasjoshi&label=Profile+Views&color=7C3AED&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/paarasjoshi?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=Followers" />
+
+</div>
 
 ---
 
-## What I Do
+<!-- ABOUT ME -->
+<img align="right" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-- Backend Engineer at a B2B SaaS product  
-- Build and maintain REST APIs used in production  
-- Work on database design, query optimization, and migrations  
-- Debug and fix real production issues  
-- Ship features used by 100K+ active users  
+### 👨‍💻 About Me
 
----
+```yaml
+name: Paras Joshi
+role: Backend Engineer @ B2B SaaS
+location: India 🇮🇳
+portfolio: parasjoshi.com
 
-## Impact
+focus:
+  - Production Systems & REST APIs
+  - Performance Engineering
+  - Database Design & Optimization
+  - Distributed Systems
 
-- Reduced API latency from ~1300ms → ~40ms  
-- Improved database performance by ~30%  
-- Built backend services serving 100K+ users  
-- Implemented notification pipelines using NSQ  
-- Handled production deployments with zero data loss  
+currently:
+  - Scaling backend services
+  - Deep-diving System Design
+  - Amazon SDE Prep
 
----
+philosophy: "Make it work → correct → fast → scalable"
+```
 
-## Tech Stack
-
-Languages  
-- C#, JavaScript, Python, C++, Java  
-
-Backend & Frameworks  
-- .NET, Node.js, Express  
-
-Databases  
-- MySQL, MongoDB  
-
-Systems & Messaging  
-- NSQ, REST APIs  
-
-Tools & Platforms  
-- Git, Linux, Postman, Visual Studio  
+<br clear="right"/>
 
 ---
 
-## Engineering Work
+<!-- IMPACT SECTION -->
+## 📊 Engineering Impact
 
-Feature Development  
-- Built backend features including CRUD APIs and new modules  
-- Designed and implemented notification systems using NSQ  
+<div align="center">
 
-Performance Optimization  
-- Reduced API latency through query and logic optimization  
-- Improved database efficiency using indexing  
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/API%20Latency-1300ms%20→%2040ms-success?style=for-the-badge&logo=lightning&logoColor=white&color=16a34a"/>
+<br/><b>⚡ 96% Faster</b>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Users%20Served-100K%2B-blue?style=for-the-badge&logo=people&color=2563eb"/>
+<br/><b>🌐 Real Scale</b>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/DB%20Performance-%2B30%25-orange?style=for-the-badge&logo=database&color=ea580c"/>
+<br/><b>🗄️ Optimized</b>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Deployments-Zero%20Data%20Loss-red?style=for-the-badge&logo=check&color=dc2626"/>
+<br/><b>✅ Reliable</b>
+</td>
+</tr>
+</table>
 
-Database & Migration Work  
-- Worked on schema design and migrations  
-- Optimized complex SQL queries  
-
-Production Debugging  
-- Fixed production API bugs  
-- Investigated issues using logs and system-level debugging  
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paarasjoshi&show_icons=true&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=paarasjoshi&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paarasjoshi&theme=github-compact" />
-</p>
+</div>
 
 ---
 
-## Coding Practice
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/parasjoshi24?theme=light&ext=heatmap" />
-</p>
+<div align="center">
 
----
+**Languages**
 
-## Profile Views
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,javascript&theme=dark" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paarasjoshi&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+**Backend & Frameworks**
 
----
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark" />
 
-## Thoughts I Operate On
+**Databases & Messaging**
 
-<p align="center">
-  <i>"Rome was not built in a day, but it started with one."</i><br/><br/>
-  <i>"I have not come this far only to come this far."</i>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" />
 
----
+**Tools & Platforms**
 
-## Connect & Profiles
+<img src="https://skillicons.dev/icons?i=git,linux,postman,vscode,visualstudio,github&theme=dark" />
 
-<p align="center">
-  <a href="mailto:p.joshi2402@gmail.com">
-    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/parasjoshi24">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/paarasjoshi">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/parasjoshi24">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/p_joshi2402">
-    <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/parasjoshi2402">
-    <img src="https://img.shields.io/badge/GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
-</p>
+<!-- CURRENTLY WORKING ON -->
+## 🎯 Currently Working On
+
+<div align="center">
+
+| Area | Focus |
+|------|-------|
+| 🏗️ **System Design** | Distributed systems, CAP theorem, consensus algorithms |
+| ⚡ **Performance** | Low-latency APIs, caching strategies, async processing |
+| 📦 **Backend** | Microservices, message queues, event-driven architecture |
+| 🧠 **DSA** | Daily LeetCode grind — graphs, DP, trees |
+| 🎯 **Interview Prep** | Amazon SDE — LP principles + technical depth |
+
+</div>
 
 ---
 
-<p align="center">
-  <i>I like working on problems where performance actually matters.</i>
-</p>
+<!-- FEATURED PROJECTS -->
+## 🔥 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/paarasjoshi">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=paarasjoshi&repo=BillStack&theme=midnight-purple&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117" />
+</a>
+
+</div>
+
+<div align="center">
+
+| 🧾 BillStack | 💸 Expense Tracker | 🔗 URL Shortener |
+|---|---|---|
+| Billing & inventory platform | Production finance tracker | Low-latency shortening service |
+| `React` `Node.js` `MongoDB` | `.NET` `MySQL` | `Node.js` `Redis` |
+| Auth · Billing · Analytics | Expense Analytics · APIs | Custom URLs · Analytics |
+
+</div>
+
+---
+
+<!-- GITHUB TROPHIES -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=paarasjoshi&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paarasjoshi&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarasjoshi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" />
+
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=paarasjoshi&theme=midnight-purple&hide_border=true&background=0D1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=888888" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paarasjoshi&bg_color=0d1117&color=a855f7&line=7C3AED&point=ffffff&area=true&hide_border=true&theme=react-dark" />
+</div>
+
+---
+
+<!-- LEETCODE -->
+## 💻 LeetCode Progress
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/parasjoshi24?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=20" />
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paarasjoshi/paarasjoshi/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/paarasjoshi/paarasjoshi/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/paarasjoshi/paarasjoshi/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- PHILOSOPHY -->
+## 💡 Engineering Philosophy
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│                                             │
+│   Make it work.                             │
+│   Make it correct.                          │
+│   Make it fast.                             │
+│   Then make it scale.                       │
+│                                             │
+│   "I like working on problems where         │
+│    performance actually matters."           │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<!-- CONNECT -->
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:p.joshi2402@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/parasjoshi24">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://parasjoshi.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/paarasjoshi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/parasjoshi24">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/p_joshi2402">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/parasjoshi2402">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+*"I have not come this far only to come this far."*
+
+</div>
