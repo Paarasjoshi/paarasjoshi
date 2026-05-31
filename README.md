@@ -133,19 +133,11 @@ philosophy: "Make it work → correct → fast → scalable"
 
 <div align="center">
 
-<a href="https://github.com/paarasjoshi">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=paarasjoshi&repo=BillStack&theme=midnight-purple&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117" />
-</a>
-
-</div>
-
-<div align="center">
-
 | 🧾 BillStack | 💸 Expense Tracker | 🔗 URL Shortener |
 |---|---|---|
 | Billing & inventory platform | Production finance tracker | Low-latency shortening service |
 | `React` `Node.js` `MongoDB` | `.NET` `MySQL` | `Node.js` `Redis` |
-| Auth · Billing · Analytics | Expense Analytics · APIs | Custom URLs · Analytics |
+| Auth · Billing Engine · Analytics | Expense Analytics · REST APIs | Custom Aliases · Analytics · Cache |
 
 </div>
 
@@ -154,7 +146,7 @@ philosophy: "Make it work → correct → fast → scalable"
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=paarasjoshi&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=paarasjoshi&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" />
 </div>
 
 ---
@@ -163,9 +155,9 @@ philosophy: "Make it work → correct → fast → scalable"
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=paarasjoshi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7" />
+<img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=paarasjoshi&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarasjoshi&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
+<img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paarasjoshi&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
