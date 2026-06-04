@@ -99,7 +99,6 @@ philosophy: "Make it work → correct → fast → scalable"
 | ⚡ **Performance** | Low-latency APIs, caching strategies, async processing |
 | 📦 **Backend** | Microservices, message queues, event-driven architecture |
 | 🧠 **DSA** | Daily LeetCode grind — graphs, DP, trees |
-| 🎯 **Interview Prep** | Amazon SDE — LP principles + technical depth |
 
 ---
 
