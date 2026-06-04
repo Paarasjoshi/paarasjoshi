@@ -28,8 +28,8 @@
 
 ```yaml
 name: Paras Joshi
-role: Backend Engineer @ B2B SaaS
-location: India 🇮🇳
+role: Backend Engineer
+location: Hyderabad, India 🇮🇳
 portfolio: parasjoshi.com
 
 focus:
@@ -41,7 +41,6 @@ focus:
 currently:
   - Scaling backend services
   - Deep-diving System Design
-  - Amazon SDE Prep
 
 philosophy: "Make it work → correct → fast → scalable"
 ```
